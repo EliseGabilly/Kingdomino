@@ -13,8 +13,8 @@ An AI is implemented (choose the hiest scorring move)
 Every step you place a tile (chose the first half and place it on one of the placeble case, then place the second half)
 Then you choose the tile you will play on the next turn
 
-Menu ![alt text](./readme/MainMenu.jpg)
+Menu ![alt text](https://github.com/EliseGabilly/Kingdomino/blob/main/readme/MainMenu.JPG)
 
-In game ![alt text](/readme/InGame.jpg)
+In game ![alt text](https://github.com/EliseGabilly/Kingdomino/blob/main/readme/InGame.JPG)
 
-End of game ![alt text](readme/EndGame.jpg)
+End of game ![alt text](https://github.com/EliseGabilly/Kingdomino/blob/main/readme/EndGame.JPG)
