@@ -1,6 +1,8 @@
 # Kingdomino
 Implementatioin of the board game kingdomino with a GUI.
 
+This project was realised in binom for first year Java project at ISEP.
+
 Kingdomino is a 2016 tile board game for 2-4 players designed by Bruno Cathala and published by Blue Orange Games.
 
 There are three game mode :
